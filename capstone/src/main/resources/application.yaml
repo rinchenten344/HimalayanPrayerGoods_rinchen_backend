@@ -1,0 +1,10 @@
+server:
+ port: 8556
+
+spring:
+ datasource:
+  url: jdbc:mysql://localhost:3306/tenzin
+  username: rinchen443
+  password: Tenzin344$
+ application:
+  name: capstone
